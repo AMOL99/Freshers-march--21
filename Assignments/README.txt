@@ -4,5 +4,5 @@ This is assignments folder
 It contains the details of the assignment. This will be absolutely perfect to evaluate.
 =======
 It contains the details of the assignment
->>>>>>> css-assignments
+>>>>>>> css-assignments and javascript both included
 Kindly consider it to be final
